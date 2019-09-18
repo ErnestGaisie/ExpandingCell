@@ -1,2 +1,0 @@
-# ExpandingCell
-Expanding cell
